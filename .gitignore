@@ -1,6 +1,7 @@
 # Java
 
 *.class
+rebel.xml
 
 # Package Files
 *.jar
