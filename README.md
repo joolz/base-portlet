@@ -1,4 +1,4 @@
-# Empty Liferay portlet.
+# Empty Liferay 6.2EE portlet.
 
 Use as base for test/poc/debug portlets.
 
